@@ -1,0 +1,46 @@
+.btn{
+  background-color: rgb(126, 229, 218);
+
+}
+.backgroundcolor{
+  background-color: rgb(213, 218, 218);
+
+}
+.btnn{
+  width: 465px;
+  padding: 20px;
+  margin: 1px;
+  float: left;
+  height: 50px;
+}
+
+.center
+{
+   margin-left: 100px;
+   margin-right: 100px;
+   
+}
+.kutu{
+  width: 550px;
+  padding: 20px;
+  margin: 1px;
+  float: left;
+  height: 50px;
+}
+.kutuu{
+  width:175px;
+  padding: 20px;
+  margin: 1px;
+  float: left;
+  height: 50px;
+  font-size: 12px;
+}
+
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+.bt{
+  font-size: 12px;
+}
